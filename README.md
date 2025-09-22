@@ -1,26 +1,45 @@
-🌐 Interactive Periodic Table
+# 🧪 Interactive Periodic Table  
 
-An interactive periodic table web app built using HTML, CSS, and JavaScript.
-This project helps users explore chemical elements in a structured and visually engaging way.
+An **interactive periodic table web app** built using **HTML, CSS, and JavaScript**.  
+This project visually represents all chemical elements in their proper groups and periods, with interactive features for exploring element details.  
 
-🔗 Live Demo: periodictable.ccbp.tech
+🔗 **Live Demo:** [periodictable.ccbp.tech](http://periodictable.ccbp.tech)  
 
-✨ Features
+---
 
-📍 Organized Layout – All 118 elements arranged by groups and periods
+## ✨ Features  
+- 📍 **Organized Layout** – Displays all 118 elements in correct periodic structure  
+- 🎨 **Color-coded Groups** – Metals, non-metals, noble gases, etc.  
+- 🖱️ **Interactive UI** – Hover/click to view atomic number, symbol, and category  
+- 📱 **Responsive Design** – Works smoothly on desktop and mobile  
+- ⚡ **JavaScript DOM Manipulation** – Dynamic updates and interactions  
 
-🎨 Color-coded Categories – Highlights element groups (metals, non-metals, noble gases, etc.)
+---
 
-🖱️ Interactive UI – Hover or click to view element details like atomic number, symbol, and category
+## 🛠️ Tech Stack  
+- **HTML5** – Semantic layout  
+- **CSS3** – Grid, Flexbox & styling  
+- **JavaScript (ES6)** – DOM events & interactivity  
 
-📱 Responsive Design – Works seamlessly on desktop and mobile
+---
 
-⚡ JavaScript DOM Manipulation – Dynamic and interactive experience
+## 📸 Screenshots  
 
-🛠️ Tech Stack
+![Periodic Table Screenshot](screenshot.png)  
+*(Add your project screenshot here — replace `screenshot.png` with actual file path or URL)*  
 
-HTML5 – Semantic structure
+---
 
-CSS3 – Styling with Flexbox/Grid
+## 🎯 Learning Outcomes  
+- Mastered **JavaScript DOM manipulation and event handling**  
+- Gained hands-on practice with **CSS Grid/Flexbox**  
+- Built a **real-world interactive UI project**  
 
-JavaScript (ES6) – Event handling & DOM updates
+---
+
+## 🚀 Getting Started  
+
+### 1. Clone the repository  
+```bash
+git clone https://github.com/your-username/interactive-periodic-table.git
+cd interactive-periodic-table
