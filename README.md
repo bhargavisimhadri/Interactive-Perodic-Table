@@ -24,8 +24,3 @@ HTML5 – Semantic structure
 CSS3 – Styling with Flexbox/Grid
 
 JavaScript (ES6) – Event handling & DOM updates
-
-📸 Screenshots
-
-
-(Add a screenshot of your project here – replace screenshot.png with your actual image path)
